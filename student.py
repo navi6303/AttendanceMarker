@@ -362,7 +362,7 @@ class studentDetails:
             try:
                 conn=mysql.connector.connect(host="localhost",username="root",password="Navisharma@06",database="face_recognizer")
                 my_cursor=conn.cursor()
-                sql = "SELECT StudentID,studentName,dept,course,year,semester,division,gender,RollNo,email FROM student where rollNo='" +str(self.var_search.get()) + "'" 
+                sql = "SELECT dept,course,year,semester,studentID,studentName,division,rollNo,gender,email FROM student where rollNo='" +str(self.var_search.get()) + "'" 
                 my_cursor.execute(sql)
                 rows=my_cursor.fetchall()        
                 if len(rows)!=0:
