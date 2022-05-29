@@ -80,4 +80,7 @@ This application's main file is main.py
 
 - Face recognition![face recognition](https://user-images.githubusercontent.com/94692993/170837918-656ab527-b8a3-4f35-8a92-836a6c98779a.png)
 
+- Attendance system![student attendance system](https://user-images.githubusercontent.com/94692993/170850886-82e28c07-7369-49ad-bfb1-d91eb0366b0a.png)
+
+
 
