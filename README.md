@@ -70,18 +70,6 @@ This application's main file is main.py
 ```bash
   python main.py
 ```
-## Screenshots
-- Home page![home page](https://user-images.githubusercontent.com/94692993/170837655-67ca838c-5ebc-43a1-9430-e5bf00b29032.png)
-
-- Student details![student details](https://user-images.githubusercontent.com/94692993/170837714-28c7f91d-7dfd-4649-a4c8-298494093797.png)
-
-- Dataset![dataset](https://user-images.githubusercontent.com/94692993/170837966-53945a5d-aef1-47f2-a822-0bbc2c555ff4.png)
-
-- Train dataset![train dataset](https://user-images.githubusercontent.com/94692993/170838137-8157f1e3-09dc-41bb-9b0e-409ff68ae8d5.png)
-
-- Face recognition![face recognition](https://user-images.githubusercontent.com/94692993/170837918-656ab527-b8a3-4f35-8a92-836a6c98779a.png)
-
-- Attendance system![student attendance system](https://user-images.githubusercontent.com/94692993/170850886-82e28c07-7369-49ad-bfb1-d91eb0366b0a.png)
 
 
 
