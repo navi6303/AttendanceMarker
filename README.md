@@ -1,7 +1,7 @@
 
 # AttendanceMarker
 
-A desktop application called proxymarker or face 
+A desktop application called attendancemarker or face 
 recognition attendance system using OpenCV and python 
 with a Tkinter GUI interface. It simply recognizes faces 
 and marks attendance for the recognized faces at first 
