@@ -1,5 +1,5 @@
 
-# ProxyMarker
+# AttendanceMarker
 
 A desktop application called proxymarker or face 
 recognition attendance system using OpenCV and python 
@@ -8,7 +8,8 @@ and marks attendance for the recognized faces at first
 glance in an excel sheet.
 
 ## Logo
-<img width="375" alt="LOGO" src="https://user-images.githubusercontent.com/94692993/170838020-aab15b06-574c-47f1-9a90-90605f5f0f01.png">
+
+![Screenshot_2023-08-10_104540-removebg-preview](https://github.com/navi6303/AttendanceMarker/assets/94692993/42d596ff-4ee5-47d3-ae83-e0581e55fe79)
 
 ## Features
 
